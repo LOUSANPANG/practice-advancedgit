@@ -1,5 +1,10 @@
 ## practice advance grammar git
 
+
+## git config global
+### git config global core.editor
+
+
 ## git status
 ### [??] untracked files 未追踪
 ### [A] 已追踪
