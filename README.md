@@ -2,7 +2,8 @@
 
 
 ## git config global
-### git config global core.editor
+### git config --global core.editor
+### git config --global --editor
 
 
 ## git status
