@@ -1,1 +1,1 @@
-export const husky = 'husky'
+export const husky = 'husky '
