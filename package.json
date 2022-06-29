@@ -2,7 +2,8 @@
   "version": "0.1.0",
   "scripts": {
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
-    "release": "release-it"
+    "release": "release-it",
+    "commit": "git-cz"
   },
   "config": {
     "commitizen": {
@@ -20,7 +21,7 @@
     "commitizen": "^4.2.4",
     "conventional-changelog-cli": "^2.2.2",
     "cz-conventional-changelog": "^3.3.0",
-    "husky": "4.3.8",
+    "husky": "^8.0.1",
     "release-it": "^15.1.1"
   }
 }
