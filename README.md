@@ -24,3 +24,5 @@
 #### git merge 
 
 #### husky
+
+#### close issues
