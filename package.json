@@ -1,4 +1,6 @@
 {
+  "name": "git",
+  "license": "MIT",
   "version": "0.1.0",
   "scripts": {
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
@@ -8,11 +10,6 @@
   "config": {
     "commitizen": {
       "path": "node_modules/cz-conventional-changelog"
-    }
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "devDependencies": {
