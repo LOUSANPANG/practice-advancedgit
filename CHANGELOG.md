@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1-rc-.1](https://github.com/LOUSANPANG/practice-advancedgit/compare/v0.1.1-rc-.0...v0.1.1-rc-.1) (2022-06-30)
+
+
+### Bug Fixes
+
+* **docs:** close issues [#1](https://github.com/LOUSANPANG/practice-advancedgit/issues/1) ([ac6ed5f](https://github.com/LOUSANPANG/practice-advancedgit/commit/ac6ed5f6c463a95ffafc5cdd94581cfb565fa3b5))
+
 ### [0.1.1-rc-.0](https://github.com/LOUSANPANG/practice-advancedgit/compare/v1.0.0...v0.1.1-rc-.0) (2022-06-30)
 
 
